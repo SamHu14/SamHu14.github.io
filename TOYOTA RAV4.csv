@@ -1,0 +1,518 @@
+﻿Index,Brand,Model,Price,ProductionDate,ProductionMonth,Mileage,FuelType,EngineDis,Color,TransSystem,DriveSystem,Seats,Location,SellerInfo,CarLink
+0,TOYOTA,RAV4,76.3,2021年10月,43,50070,汽油,2,黑色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/228151,https://www.abccar.com.tw/Car/2242394
+1,TOYOTA,RAV4,78.5,2022年03月,38,92244,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/228152,https://www.abccar.com.tw/Car/2241972
+2,TOYOTA,RAV4,48.8,2016年05月,108,72496,汽油,2,銀色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2243239
+3,TOYOTA,RAV4,93.8,2023年06月,23,11493,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2243238
+4,TOYOTA,RAV4,46.8,2016年05月,108,76317,汽油,2,黑色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2243213
+5,TOYOTA,RAV4,71.8,2021年06月,47,20000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35591,https://www.abccar.com.tw/Car/2242948
+6,TOYOTA,RAV4,103.8,2025年02月,3,1998,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2242883
+7,TOYOTA,RAV4,101.8,2025年01月,4,10,汽油,2,白色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/213384,https://www.abccar.com.tw/Car/2242357
+8,TOYOTA,RAV4,83.9,2021年04月,49,43140,油電複合,2.5,黑色,手自排,前輪驅動,5,宜蘭縣,https://www.abccar.com.tw/dealer/35594,https://www.abccar.com.tw/Car/2241361
+9,TOYOTA,RAV4,100.7,2022年02月,39,44617,油電複合,2.5,黑色,CVT 無段變速,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/238154,https://www.abccar.com.tw/Car/2239265
+10,TOYOTA,RAV4,87.9,2024年01月,16,12106,汽油,2,灰色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/228147,https://www.abccar.com.tw/Car/2236138
+11,TOYOTA,RAV4,86.3,2022年04月,37,70567,油電複合,2.5,灰色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/228152,https://www.abccar.com.tw/Car/2234718
+12,TOYOTA,RAV4,72.7,2020年12月,53,88146,油電複合,2.5,黑色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/228151,https://www.abccar.com.tw/Car/2228033
+13,TOYOTA,RAV4,72.8,2021年06月,47,26040,汽油,2,藍色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/228147,https://www.abccar.com.tw/Car/2228032
+14,TOYOTA,RAV4,73.9,2020年06月,59,93997,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/228147,https://www.abccar.com.tw/Car/2225799
+15,TOYOTA,RAV4,48.8,2016年11月,102,112769,汽油,2,銀色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/30487,https://www.abccar.com.tw/Car/2183685
+16,TOYOTA,RAV4,48.5,2017年12月,89,60566,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/86947,https://www.abccar.com.tw/Car/2157522
+17,TOYOTA,RAV4,68,2020年03月,62,22213,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/86947,https://www.abccar.com.tw/Car/2157197
+18,TOYOTA,RAV4,25.8,2010年12月,173,91481,汽油,2.4,白色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2242866
+19,TOYOTA,RAV4,97.8,2022年04月,37,29500,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2242859
+20,TOYOTA,RAV4,57.8,2017年09月,92,27500,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2242767
+21,TOYOTA,RAV4,45.8,2015年03月,122,100000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35589,https://www.abccar.com.tw/Car/2242662
+22,TOYOTA,RAV4,65.8,2019年11月,66,103671,油電複合,2.5,黑色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/35608,https://www.abccar.com.tw/Car/2242488
+23,TOYOTA,RAV4,51.8,2017年02月,99,99546,汽油,2,白色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2242046
+24,TOYOTA,RAV4,108.8,2024年07月,10,7126,汽油,2,灰色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2241836
+25,TOYOTA,RAV4,51.8,2017年11月,90,93830,汽油,2,灰色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2241835
+26,TOYOTA,RAV4,58.8,2018年06月,83,95009,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2241676
+27,TOYOTA,RAV4,42.8,2015年04月,121,94220,汽油,2,銀色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35600,https://www.abccar.com.tw/Car/2241590
+28,TOYOTA,RAV4,79.8,2020年09月,56,41100,油電複合,2.5,黑色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/35592,https://www.abccar.com.tw/Car/2241359
+29,TOYOTA,RAV4,67.8,2019年12月,65,97569,汽油,2.5,黑色,自排,四輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/35608,https://www.abccar.com.tw/Car/2241354
+30,TOYOTA,RAV4,68.8,2019年06月,71,89932,汽油,2,灰色,CVT 無段變速,前輪驅動,5,宜蘭縣,https://www.abccar.com.tw/dealer/35594,https://www.abccar.com.tw/Car/2241070
+31,TOYOTA,RAV4,43.8,2015年02月,123,97287,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2240131
+32,TOYOTA,RAV4,76.8,2020年12月,53,58000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,基隆市,https://www.abccar.com.tw/dealer/35590,https://www.abccar.com.tw/Car/2239457
+33,TOYOTA,RAV4,39.8,2014年06月,131,134202,汽油,2,銀色,CVT 無段變速,前輪驅動,5,嘉義市,https://www.abccar.com.tw/dealer/35593,https://www.abccar.com.tw/Car/2238677
+34,TOYOTA,RAV4,108.8,2023年11月,18,32781,油電複合,2.5,白色,手自排,四輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/35608,https://www.abccar.com.tw/Car/2238455
+35,TOYOTA,RAV4,88.8,2022年10月,31,18000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/69097,https://www.abccar.com.tw/Car/2238414
+36,TOYOTA,RAV4,56.8,2018年06月,83,83197,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2238220
+37,TOYOTA,RAV4,54.8,2017年10月,91,103424,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35600,https://www.abccar.com.tw/Car/2237972
+38,TOYOTA,RAV4,36.8,2013年01月,148,99477,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/213384,https://www.abccar.com.tw/Car/2237714
+39,TOYOTA,RAV4,26.8,2010年10月,175,124333,汽油,2.4,銀色,自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35588,https://www.abccar.com.tw/Car/2237701
+40,TOYOTA,RAV4,39.8,2014年10月,127,143536,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35600,https://www.abccar.com.tw/Car/2237586
+41,TOYOTA,RAV4,47.8,2015年03月,122,139000,汽油,2.5,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35603,https://www.abccar.com.tw/Car/2236956
+42,TOYOTA,RAV4,79.8,2020年07月,58,36088,汽油,2,白色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35605,https://www.abccar.com.tw/Car/2236954
+43,TOYOTA,RAV4,116.8,2024年01月,16,3951,油電複合,2.5,灰色,手自排,四輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35589,https://www.abccar.com.tw/Car/2236908
+44,TOYOTA,RAV4,113.8,2023年11月,18,12079,油電複合,2.5,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35591,https://www.abccar.com.tw/Car/2236698
+45,TOYOTA,RAV4,79.8,2022年03月,38,38847,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/227538,https://www.abccar.com.tw/Car/2236225
+46,TOYOTA,RAV4,108.8,2023年07月,22,28717,油電複合,2.5,白色,手自排,四輪驅動,5,新竹市,https://www.abccar.com.tw/dealer/212500,https://www.abccar.com.tw/Car/2235926
+47,TOYOTA,RAV4,105.8,2023年10月,19,9015,汽油,2,灰色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35586,https://www.abccar.com.tw/Car/2235599
+48,TOYOTA,RAV4,109.8,2024年10月,7,4263,油電複合,2.5,白色,手自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35586,https://www.abccar.com.tw/Car/2235510
+49,TOYOTA,RAV4,71.8,2020年01月,64,121902,油電複合,2.5,黑色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35598,https://www.abccar.com.tw/Car/2234849
+50,TOYOTA,RAV4,42.8,2014年02月,135,63550,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/227538,https://www.abccar.com.tw/Car/2234481
+51,TOYOTA,RAV4,62.8,2017年07月,94,87129,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35599,https://www.abccar.com.tw/Car/2234385
+52,TOYOTA,RAV4,94.8,2022年01月,40,51863,油電複合,2.5,白色,手自排,前輪驅動,5,新竹市,https://www.abccar.com.tw/dealer/212500,https://www.abccar.com.tw/Car/2234221
+53,TOYOTA,RAV4,94.8,2022年01月,40,51863,油電複合,2.5,白色,手自排,前輪驅動,5,新竹市,https://www.abccar.com.tw/dealer/212500,https://www.abccar.com.tw/Car/2234220
+54,TOYOTA,RAV4,46.8,2017年08月,93,120110,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35588,https://www.abccar.com.tw/Car/2232679
+55,TOYOTA,RAV4,95.8,2020年05月,60,32918,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35603,https://www.abccar.com.tw/Car/2232530
+56,TOYOTA,RAV4,95.8,2021年07月,46,59700,油電複合,2.5,灰色,手自排,前輪驅動,5,基隆市,https://www.abccar.com.tw/dealer/35590,https://www.abccar.com.tw/Car/2232513
+57,TOYOTA,RAV4,29.8,2010年11月,174,41000,汽油,2.4,黑色,自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35589,https://www.abccar.com.tw/Car/2232490
+58,TOYOTA,RAV4,63.8,2017年05月,96,88600,油電複合,2.5,黑色,手自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35589,https://www.abccar.com.tw/Car/2232484
+59,TOYOTA,RAV4,118.8,2021年11月,42,33794,油電複合,2.5,黑色,手自排,四輪驅動,5,台北市,https://www.abccar.com.tw/dealer/69097,https://www.abccar.com.tw/Car/2232480
+60,TOYOTA,RAV4,69.8,2019年02月,75,70000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2232472
+61,TOYOTA,RAV4,83.8,2020年02月,63,18000,汽油,2.5,黑色,自排,四輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/35601,https://www.abccar.com.tw/Car/2232465
+62,TOYOTA,RAV4,41.8,2013年01月,148,96000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35602,https://www.abccar.com.tw/Car/2232295
+63,TOYOTA,RAV4,80.8,2021年11月,42,59108,汽油,2,灰色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2232132
+64,TOYOTA,RAV4,55.8,2018年01月,88,100117,汽油,2,灰色,CVT 無段變速,前輪驅動,5,新竹市,https://www.abccar.com.tw/dealer/212500,https://www.abccar.com.tw/Car/2232069
+65,TOYOTA,RAV4,45.8,2016年04月,109,112688,汽油,2,銀色,CVT 無段變速,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/35608,https://www.abccar.com.tw/Car/2231314
+66,TOYOTA,RAV4,102.8,2023年06月,23,24700,油電複合,2.5,白色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35600,https://www.abccar.com.tw/Car/2230659
+67,TOYOTA,RAV4,55.8,2017年05月,96,108011,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35599,https://www.abccar.com.tw/Car/2226990
+68,TOYOTA,RAV4,82.8,2019年11月,66,53455,汽油,2.5,白色,自排,四輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35588,https://www.abccar.com.tw/Car/2225381
+69,TOYOTA,RAV4,83.8,2021年11月,42,77300,油電複合,2.5,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35603,https://www.abccar.com.tw/Car/2225184
+70,TOYOTA,RAV4,42.8,2014年12月,125,128000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35598,https://www.abccar.com.tw/Car/2221741
+71,TOYOTA,RAV4,45.8,2015年10月,115,99543,汽油,2,銀色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2221696
+72,TOYOTA,RAV4,93.8,2023年03月,26,12550,汽油,2,黑色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/229294,https://www.abccar.com.tw/Car/2221676
+73,TOYOTA,RAV4,93.8,2022年06月,35,65250,油電複合,2.5,白色,手自排,前輪驅動,5,嘉義市,https://www.abccar.com.tw/dealer/35593,https://www.abccar.com.tw/Car/2219077
+74,TOYOTA,RAV4,13.8,2011年02月,171,89656,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2213090
+75,TOYOTA,RAV4,28.8,2015年12月,113,80636,汽油,2.5,黑色,手自排,四輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2179846
+76,TOYOTA,RAV4,9.8,2009年10月,187,89702,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2176473
+77,TOYOTA,RAV4,55.8,2022年01月,40,16282,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2164940
+78,TOYOTA,RAV4,50.8,2019年02月,75,20000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2148219
+79,TOYOTA,RAV4,55.8,2021年01月,52,13937,油電複合,2.5,白色,CVT 無段變速,四輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2145218
+80,TOYOTA,RAV4,50.8,2020年10月,55,30431,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2143470
+81,TOYOTA,RAV4,19.8,2013年10月,139,102737,汽油,2,銀色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2132241
+82,TOYOTA,RAV4,31.8,2018年11月,78,49643,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2118536
+83,TOYOTA,RAV4,30.8,2017年06月,95,70181,油電複合,2.5,銀色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2104686
+84,TOYOTA,RAV4,34.8,2017年01月,100,42168,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2104685
+85,TOYOTA,RAV4,20.8,2012年02月,159,107874,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2068408
+86,TOYOTA,RAV4,45.8,2019年06月,71,51251,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2064817
+87,TOYOTA,RAV4,15.8,2012年01月,160,106768,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2057982
+88,TOYOTA,RAV4,13.8,2009年07月,190,133567,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2057423
+89,TOYOTA,RAV4,19.8,2013年08月,141,76750,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2056826
+90,TOYOTA,RAV4,46.8,2019年04月,73,18283,油電複合,2.5,白色,CVT 無段變速,四輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2052234
+91,TOYOTA,RAV4,45.8,2019年05月,72,20393,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2052222
+92,TOYOTA,RAV4,55.8,2020年05月,60,24212,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2052221
+93,TOYOTA,RAV4,30.8,2016年05月,108,56454,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2050362
+94,TOYOTA,RAV4,28.8,2016年06月,107,95821,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2048453
+95,TOYOTA,RAV4,30.8,2017年08月,93,54545,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2047014
+96,TOYOTA,RAV4,49.8,2020年02月,63,34321,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2046987
+97,TOYOTA,RAV4,26.8,2017年10月,91,65464,汽油,2,銀色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2046421
+98,TOYOTA,RAV4,20.8,2013年09月,140,76565,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2046419
+99,TOYOTA,RAV4,50.8,2020年01月,64,13232,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2046388
+100,TOYOTA,RAV4,33,2014年01月,136,160000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/71052,https://www.abccar.com.tw/Car/2241141
+101,TOYOTA,RAV4,25.5,2013年03月,146,225321,汽油,2,灰色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/26900,https://www.abccar.com.tw/Car/2240263
+102,TOYOTA,RAV4,49.8,2017年05月,96,100000,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/53718,https://www.abccar.com.tw/Car/2237910
+103,TOYOTA,RAV4,72.8,2022年01月,40,87342,汽油,2,銀色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/60867,https://www.abccar.com.tw/Car/2234039
+104,TOYOTA,RAV4,68.8,2017年10月,91,86314,汽油,2,白色,CVT 無段變速,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/18054,https://www.abccar.com.tw/Car/2232299
+105,TOYOTA,RAV4,51.8,2018年04月,85,70742,汽油,2,黑色,CVT 無段變速,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/60864,https://www.abccar.com.tw/Car/2231130
+106,TOYOTA,RAV4,53.8,2016年04月,109,175876,汽油,2,灰色,CVT 無段變速,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/60864,https://www.abccar.com.tw/Car/2231119
+107,TOYOTA,RAV4,45.5,2016年07月,106,140000,汽油,2,白色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/66510,https://www.abccar.com.tw/Car/2229281
+108,TOYOTA,RAV4,22.8,2009年06月,191,122117,汽油,2.4,白色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/217118,https://www.abccar.com.tw/Car/2224643
+109,TOYOTA,RAV4,39.9,2016年01月,112,94242,汽油,2.5,銀色,手自排,四輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52885,https://www.abccar.com.tw/Car/2224608
+110,TOYOTA,RAV4,23.8,2012年04月,157,200000,汽油,2.4,銀色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2221953
+111,TOYOTA,RAV4,63.8,2019年07月,70,99000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52956,https://www.abccar.com.tw/Car/2221785
+112,TOYOTA,RAV4,76.8,2021年06月,47,83000,汽油,2,藍色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52956,https://www.abccar.com.tw/Car/2221772
+113,TOYOTA,RAV4,18.8,2009年12月,185,150000,汽油,2.4,白色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/53381,https://www.abccar.com.tw/Car/2221750
+114,TOYOTA,RAV4,29.8,2014年10月,127,150000,汽油,2.5,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52982,https://www.abccar.com.tw/Car/2218778
+115,TOYOTA,RAV4,36.8,2014年06月,131,134170,汽油,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/53493,https://www.abccar.com.tw/Car/2243284
+116,TOYOTA,RAV4,86.8,2021年01月,52,66000,油電複合,2.5,黑色,CVT 無段變速,四輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/72246,https://www.abccar.com.tw/Car/2243252
+117,TOYOTA,RAV4,75,2021年03月,50,33565,汽油,2,黑色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/16093,https://www.abccar.com.tw/Car/2243244
+118,TOYOTA,RAV4,59.8,2019年09月,68,182265,油電複合,2.5,銀色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/217694,https://www.abccar.com.tw/Car/2243241
+119,TOYOTA,RAV4,26.8,2012年04月,157,208002,汽油,2.4,白色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/28793,https://www.abccar.com.tw/Car/2242763
+120,TOYOTA,RAV4,69.8,2020年10月,55,47426,汽油,2,白色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/60867,https://www.abccar.com.tw/Car/2242759
+121,TOYOTA,RAV4,30.8,2013年10月,139,210000,汽油,2.5,白色,手自排,四輪驅動,5,台北市,https://www.abccar.com.tw/dealer/66430,https://www.abccar.com.tw/Car/2242754
+122,TOYOTA,RAV4,20.8,2011年01月,172,210000,汽油,2.4,白色,手自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52889,https://www.abccar.com.tw/Car/2229094
+123,TOYOTA,RAV4,99.8,2022年02月,39,24849,油電複合,2.5,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/21,https://www.abccar.com.tw/Car/2242660
+124,TOYOTA,RAV4,73.8,2019年09月,68,160000,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/42695,https://www.abccar.com.tw/Car/2229141
+125,TOYOTA,RAV4,91.8,2022年03月,38,46021,油電複合,2.5,白色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/21,https://www.abccar.com.tw/Car/2242365
+126,TOYOTA,RAV4,69.8,2020年02月,63,100959,汽油,2,灰色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/9948,https://www.abccar.com.tw/Car/2242158
+127,TOYOTA,RAV4,32.8,2013年07月,142,164000,汽油,2.5,黑色,自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52889,https://www.abccar.com.tw/Car/2221158
+128,TOYOTA,RAV4,49.9,2017年04月,97,91199,油電複合,2.5,灰色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/220684,https://www.abccar.com.tw/Car/2202729
+129,TOYOTA,RAV4,62.8,2019年11月,66,150000,汽油,2,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/205550,https://www.abccar.com.tw/Car/2241853
+130,TOYOTA,RAV4,42.8,2016年12月,101,215328,汽油,2,銀色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/205550,https://www.abccar.com.tw/Car/2203030
+131,TOYOTA,RAV4,69.8,2020年07月,58,137264,油電複合,2.5,藍色,自手排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/29847,https://www.abccar.com.tw/Car/2236573
+132,TOYOTA,RAV4,76.8,2020年01月,64,70631,汽油,2,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/28793,https://www.abccar.com.tw/Car/2237448
+133,TOYOTA,RAV4,52.8,2017年04月,97,93000,汽油,2,灰色,自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52889,https://www.abccar.com.tw/Car/2223520
+134,TOYOTA,RAV4,45.8,2017年02月,99,56000,汽油,2.5,灰色,自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52889,https://www.abccar.com.tw/Car/2237869
+135,TOYOTA,RAV4,53,2017年10月,91,134411,汽油,2,白色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2241640
+136,TOYOTA,RAV4,26.8,2013年09月,140,208874,汽油,2.5,白色,自排,前輪驅動,5,嘉義縣,https://www.abccar.com.tw/dealer/10283,https://www.abccar.com.tw/Car/2238672
+137,TOYOTA,RAV4,42.8,2014年05月,132,170000,汽油,2,銀色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/42695,https://www.abccar.com.tw/Car/2210260
+138,TOYOTA,RAV4,23.8,2012年04月,157,200000,汽油,2.4,銀色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/42695,https://www.abccar.com.tw/Car/2226753
+139,TOYOTA,RAV4,48.8,2017年05月,96,117721,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/229325,https://www.abccar.com.tw/Car/2239331
+140,TOYOTA,RAV4,78.8,2020年06月,59,120000,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/229325,https://www.abccar.com.tw/Car/2239376
+141,TOYOTA,RAV4,24.8,2015年01月,124,244001,汽油,2,銀色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/205414,https://www.abccar.com.tw/Car/2202694
+142,TOYOTA,RAV4,16.9,2011年10月,163,348829,汽油,2.4,黑色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/220684,https://www.abccar.com.tw/Car/2202686
+143,TOYOTA,RAV4,19.8,2009年07月,190,87000,汽油,2.4,黑色,自排,前輪驅動,5,新竹市,https://www.abccar.com.tw/dealer/235236,https://www.abccar.com.tw/Car/2241224
+144,TOYOTA,RAV4,66.8,2021年06月,47,123859,汽油,2,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/55152,https://www.abccar.com.tw/Car/2241214
+145,TOYOTA,RAV4,39.9,2017年02月,99,57025,汽油,2.5,灰色,手自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52885,https://www.abccar.com.tw/Car/2241068
+146,TOYOTA,RAV4,28.8,2010年12月,173,120572,汽油,2.4,銀色,自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/39171,https://www.abccar.com.tw/Car/2241037
+147,TOYOTA,RAV4,45,2016年08月,105,155027,汽油,2,黑色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/206526,https://www.abccar.com.tw/Car/2240899
+148,TOYOTA,RAV4,45,2016年11月,102,181211,汽油,2,黑色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/206526,https://www.abccar.com.tw/Car/2240893
+149,TOYOTA,RAV4,45.8,2017年12月,89,200531,汽油,2,白色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/28793,https://www.abccar.com.tw/Car/2240258
+150,TOYOTA,RAV4,86.8,2021年06月,47,68000,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/203434,https://www.abccar.com.tw/Car/2239817
+151,TOYOTA,RAV4,84.8,2021年10月,43,51628,汽油,2,白色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/206526,https://www.abccar.com.tw/Car/2239559
+152,TOYOTA,RAV4,75.8,2022年02月,39,103931,汽油,2,灰色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/201611,https://www.abccar.com.tw/Car/2239091
+153,TOYOTA,RAV4,75.8,2022年03月,38,95223,汽油,2,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/50667,https://www.abccar.com.tw/Car/2239386
+154,TOYOTA,RAV4,39.8,2016年06月,107,167312,汽油,2,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/50667,https://www.abccar.com.tw/Car/2239084
+155,TOYOTA,RAV4,68.8,2021年10月,43,150618,汽油,2,藍色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/69366,https://www.abccar.com.tw/Car/2237246
+156,TOYOTA,RAV4,39.8,2016年08月,105,205000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/72246,https://www.abccar.com.tw/Car/2237250
+157,TOYOTA,RAV4,79,2020年01月,64,97459,汽油,2,白色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/201687,https://www.abccar.com.tw/Car/2236710
+158,TOYOTA,RAV4,67.8,2019年03月,74,162941,汽油,2,銀色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2236747
+159,TOYOTA,RAV4,56.8,2018年11月,78,114174,汽油,2,黑色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/53328,https://www.abccar.com.tw/Car/2236616
+160,TOYOTA,RAV4,22.8,2013年11月,138,237076,汽油,2.5,黑色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/217936,https://www.abccar.com.tw/Car/2236945
+161,TOYOTA,RAV4,84.8,2022年10月,31,26524,汽油,2,灰色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/27546,https://www.abccar.com.tw/Car/2235705
+162,TOYOTA,RAV4,49,2016年01月,112,173086,汽油,2.5,灰色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/69022,https://www.abccar.com.tw/Car/2235325
+163,TOYOTA,RAV4,72.8,2021年01月,52,55000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/212334,https://www.abccar.com.tw/Car/2235359
+164,TOYOTA,RAV4,23.8,2011年07月,166,223033,汽油,2.4,白色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/229764,https://www.abccar.com.tw/Car/2235213
+165,TOYOTA,RAV4,38.8,2014年12月,125,147771,汽油,2,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52931,https://www.abccar.com.tw/Car/2234491
+166,TOYOTA,RAV4,72.8,2022年01月,40,87332,汽油,2,銀色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/60867,https://www.abccar.com.tw/Car/2234040
+167,TOYOTA,RAV4,55.8,2017年05月,96,101521,油電複合,2.5,灰色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/69004,https://www.abccar.com.tw/Car/2234013
+168,TOYOTA,RAV4,57.8,2017年10月,91,77533,汽油,2,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/69366,https://www.abccar.com.tw/Car/2234187
+0,TOYOTA,RAV4,49,2016年08月,105,162881,汽油,2,黑色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/201687,https://www.abccar.com.tw/Car/2233724
+1,TOYOTA,RAV4,19.8,2012年04月,157,173829,汽油,2.4,銀色,自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/14966,https://www.abccar.com.tw/Car/2232970
+2,TOYOTA,RAV4,25.8,2012年09月,152,163818,汽油,2.4,銀色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/17252,https://www.abccar.com.tw/Car/2232607
+3,TOYOTA,RAV4,49.8,2017年09月,92,68243,汽油,2.5,紅色,手自排,前輪驅動,5,嘉義縣,https://www.abccar.com.tw/dealer/69903,https://www.abccar.com.tw/Car/2232661
+4,TOYOTA,RAV4,79.8,2022年01月,40,88000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/71052,https://www.abccar.com.tw/Car/2232363
+5,TOYOTA,RAV4,83,2021年02月,51,47263,汽油,2,白色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/201687,https://www.abccar.com.tw/Car/2227408
+6,TOYOTA,RAV4,88.8,2022年01月,40,65496,油電複合,2.5,白色,自手排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/53026,https://www.abccar.com.tw/Car/2229569
+7,TOYOTA,RAV4,24.8,2012年04月,157,213682,汽油,2.4,黑色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/205550,https://www.abccar.com.tw/Car/2230390
+8,TOYOTA,RAV4,48.8,2016年12月,101,96288,汽油,2,紅色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2225702
+9,TOYOTA,RAV4,43.6,2015年07月,118,105503,汽油,2,白色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/219655,https://www.abccar.com.tw/Car/2227873
+10,TOYOTA,RAV4,69.8,2020年01月,64,87218,汽油,2,黑色,手自排,前輪驅動,0,新北市,https://www.abccar.com.tw/dealer/50667,https://www.abccar.com.tw/Car/2227314
+11,TOYOTA,RAV4,28.8,2012年05月,156,170053,汽油,2.4,白色,自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52931,https://www.abccar.com.tw/Car/2226401
+12,TOYOTA,RAV4,35.8,2013年10月,139,157774,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/218660,https://www.abccar.com.tw/Car/2226363
+13,TOYOTA,RAV4,68.8,2020年03月,62,99000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/72512,https://www.abccar.com.tw/Car/2225087
+14,TOYOTA,RAV4,78.8,2020年07月,58,94707,油電複合,2.5,白色,手自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52889,https://www.abccar.com.tw/Car/2223894
+15,TOYOTA,RAV4,18.8,2009年12月,185,289302,汽油,2.4,黑色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/42695,https://www.abccar.com.tw/Car/2221800
+16,TOYOTA,RAV4,65.8,2019年04月,73,122337,汽油,2,黑色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/221750,https://www.abccar.com.tw/Car/2220535
+17,TOYOTA,RAV4,18.5,2011年10月,163,220000,汽油,2.4,銀色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/1593,https://www.abccar.com.tw/Car/2235282
+18,TOYOTA,RAV4,69.9,2019年11月,66,112000,油電複合,2.5,灰色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/10294,https://www.abccar.com.tw/Car/2230899
+19,TOYOTA,RAV4,68.8,2021年06月,47,43025,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/231805,https://www.abccar.com.tw/Car/2230346
+20,TOYOTA,RAV4,46.8,2018年11月,78,73000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,,https://www.abccar.com.tw/Car/2229013
+21,TOYOTA,RAV4,46.8,2017年12月,89,110000,汽油,2,銀色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/219427,https://www.abccar.com.tw/Car/2228010
+22,TOYOTA,RAV4,47.8,2016年12月,101,155424,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/231805,https://www.abccar.com.tw/Car/2226920
+23,TOYOTA,RAV4,45.8,2017年04月,97,114869,汽油,2,紅色,CVT 無段變速,前輪驅動,5,新竹縣,https://www.abccar.com.tw/dealer/4338,https://www.abccar.com.tw/Car/2226704
+24,TOYOTA,RAV4,75.8,2019年09月,68,48399,油電複合,2.5,藍色,CVT 無段變速,四輪驅動,5,新竹縣,https://www.abccar.com.tw/dealer/4338,https://www.abccar.com.tw/Car/2226701
+25,TOYOTA,RAV4,68.8,2020年03月,62,98000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,,https://www.abccar.com.tw/Car/2224874
+26,TOYOTA,RAV4,22.6,2010年12月,173,155350,汽油,2.4,銀色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2223981
+27,TOYOTA,RAV4,56.6,2019年10月,67,145450,汽油,2,灰色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2220424
+28,TOYOTA,RAV4,65.8,2019年07月,70,70336,汽油,2,灰色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/238179,https://www.abccar.com.tw/Car/2219496
+29,TOYOTA,RAV4,32.8,2013年03月,146,161470,汽油,2.5,白色,手自排,前輪驅動,5,台東縣,https://www.abccar.com.tw/dealer/235392,https://www.abccar.com.tw/Car/2243324
+30,TOYOTA,RAV4,16.8,2009年04月,193,192025,汽油,2.4,白色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/69607,https://www.abccar.com.tw/Car/2243280
+31,TOYOTA,RAV4,29.8,2015年12月,113,240000,汽油,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/224648,https://www.abccar.com.tw/Car/2243249
+32,TOYOTA,RAV4,56,2017年06月,95,134690,油電複合,2.5,白色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/15765,https://www.abccar.com.tw/Car/2243206
+33,TOYOTA,RAV4,62.8,2019年12月,65,139000,汽油,2,銀色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/26144,https://www.abccar.com.tw/Car/2243204
+34,TOYOTA,RAV4,69.8,2019年06月,71,100000,汽油,2,白色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/231994,https://www.abccar.com.tw/Car/2243099
+35,TOYOTA,RAV4,72,2019年07月,70,72159,油電複合,2.5,灰色,手自排,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/223221,https://www.abccar.com.tw/Car/2208368
+36,TOYOTA,RAV4,35,2013年06月,143,199437,汽油,2,白色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/211381,https://www.abccar.com.tw/Car/2242936
+37,TOYOTA,RAV4,69.8,2021年11月,42,70374,汽油,2,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/17479,https://www.abccar.com.tw/Car/2242895
+38,TOYOTA,RAV4,57.8,2017年02月,99,136185,汽油,2,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/73222,https://www.abccar.com.tw/Car/2242837
+39,TOYOTA,RAV4,16,2009年03月,194,166858,汽油,2.4,白色,自排,前輪驅動,5,嘉義市,https://www.abccar.com.tw/dealer/216634,https://www.abccar.com.tw/Car/2242803
+40,TOYOTA,RAV4,35.8,2014年02月,135,195159,汽油,2.5,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/1640,https://www.abccar.com.tw/Car/2242785
+41,TOYOTA,RAV4,63.8,2016年03月,110,165085,汽油,2,白色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/236138,https://www.abccar.com.tw/Car/2203650
+42,TOYOTA,RAV4,20.8,2012年03月,158,223377,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/219572,https://www.abccar.com.tw/Car/2223865
+43,TOYOTA,RAV4,78.8,2015年01月,124,89868,汽油,2,黑色,手自排,前輪驅動,0,宜蘭縣,https://www.abccar.com.tw/dealer/216596,https://www.abccar.com.tw/Car/2207490
+44,TOYOTA,RAV4,37,2015年06月,119,151897,汽油,2,銀色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/221758,https://www.abccar.com.tw/Car/2225984
+45,TOYOTA,RAV4,25.8,2017年10月,91,110000,油電複合,2.5,白色,CVT 無段變速,四輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2242625
+46,TOYOTA,RAV4,69.8,2021年10月,43,148746,汽油,2,白色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/69607,https://www.abccar.com.tw/Car/2242617
+47,TOYOTA,RAV4,83.9,2022年04月,37,63000,油電複合,2.5,銀色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/17799,https://www.abccar.com.tw/Car/2242576
+48,TOYOTA,RAV4,32.8,2014年02月,135,202002,汽油,2,灰色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/219041,https://www.abccar.com.tw/Car/2230170
+49,TOYOTA,RAV4,83.8,2021年01月,52,65000,汽油,2,藍色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/232738,https://www.abccar.com.tw/Car/2230424
+50,TOYOTA,RAV4,46.5,2014年06月,131,158308,汽油,2,白色,自排,前輪驅動,0,高雄市,https://www.abccar.com.tw/dealer/226711,https://www.abccar.com.tw/Car/2202293
+51,TOYOTA,RAV4,36.8,2015年06月,119,48778,汽油,2.5,銀色,自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/205681,https://www.abccar.com.tw/Car/2242367
+52,TOYOTA,RAV4,49.8,2018年12月,77,80000,汽油,2,銀色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/218999,https://www.abccar.com.tw/Car/2242332
+53,TOYOTA,RAV4,48.8,2016年11月,102,182097,汽油,2,黑色,手自排,前輪驅動,0,桃園市,https://www.abccar.com.tw/dealer/218789,https://www.abccar.com.tw/Car/2242286
+54,TOYOTA,RAV4,59.8,2015年02月,123,110868,汽油,2.5,白色,自排,前輪驅動,0,桃園市,https://www.abccar.com.tw/dealer/232403,https://www.abccar.com.tw/Car/2220636
+55,TOYOTA,RAV4,42.8,2019年12月,65,56000,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2242245
+56,TOYOTA,RAV4,14.8,2009年07月,190,174777,汽油,2.4,黑色,自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/222079,https://www.abccar.com.tw/Car/2242232
+57,TOYOTA,RAV4,35.8,2013年07月,142,180000,汽油,2,黑色,手自排,前輪驅動,5,台中市,,https://www.abccar.com.tw/Car/2233774
+58,TOYOTA,RAV4,30.8,2017年02月,99,110000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2242201
+59,TOYOTA,RAV4,62.8,2020年01月,64,176084,汽油,2,銀色,手自排,前輪驅動,5,嘉義市,https://www.abccar.com.tw/dealer/217463,https://www.abccar.com.tw/Car/2242109
+60,TOYOTA,RAV4,32.8,2017年01月,100,96500,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2242075
+61,TOYOTA,RAV4,72.8,2019年05月,72,81258,油電複合,2.5,銀色,手自排,前輪驅動,5,嘉義縣,https://www.abccar.com.tw/dealer/205704,https://www.abccar.com.tw/Car/2242064
+62,TOYOTA,RAV4,69.9,2020年11月,54,106655,汽油,2,綠色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/238191,https://www.abccar.com.tw/Car/2242022
+63,TOYOTA,RAV4,82.8,2021年02月,51,23000,汽油,2,黑色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/233244,https://www.abccar.com.tw/Car/2205616
+64,TOYOTA,RAV4,23.8,2012年05月,156,165412,汽油,2.4,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/224593,https://www.abccar.com.tw/Car/2209021
+65,TOYOTA,RAV4,28.8,2017年06月,95,114900,油電複合,2.5,銀色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241957
+66,TOYOTA,RAV4,30.8,2017年09月,92,79588,油電複合,2.5,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241945
+67,TOYOTA,RAV4,21.8,2011年03月,170,113542,汽油,2.4,黑色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/219159,https://www.abccar.com.tw/Car/2241802
+68,TOYOTA,RAV4,38.8,2015年06月,119,143615,汽油,2,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/232501,https://www.abccar.com.tw/Car/2203356
+69,TOYOTA,RAV4,39.8,2015年12月,113,192202,汽油,2,白色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/63777,https://www.abccar.com.tw/Car/2236807
+70,TOYOTA,RAV4,41.8,2015年12月,113,155239,汽油,2.5,灰色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/10052,https://www.abccar.com.tw/Car/2205035
+71,TOYOTA,RAV4,35.8,2014年04月,133,168518,汽油,2.5,灰色,手自排,前輪驅動,0,台南市,https://www.abccar.com.tw/dealer/231707,https://www.abccar.com.tw/Car/2202492
+72,TOYOTA,RAV4,18.8,2010年12月,173,190950,汽油,2.4,白色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/201695,https://www.abccar.com.tw/Car/2214000
+73,TOYOTA,RAV4,18.8,2011年09月,164,180000,汽油,2.4,銀色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/228034,https://www.abccar.com.tw/Car/2218624
+74,TOYOTA,RAV4,119.8,2025年01月,4,2173,油電複合,2.5,白色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/235896,https://www.abccar.com.tw/Car/2238508
+75,TOYOTA,RAV4,89.8,2021年07月,46,100000,油電複合,2.5,黑色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/84414,https://www.abccar.com.tw/Car/2224991
+76,TOYOTA,RAV4,15.8,2013年09月,140,60000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241452
+77,TOYOTA,RAV4,12.8,2011年02月,171,80000,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241448
+78,TOYOTA,RAV4,17.8,2013年08月,141,70000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241447
+79,TOYOTA,RAV4,12.8,2009年07月,190,90000,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241444
+80,TOYOTA,RAV4,45.8,2019年05月,72,30000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241443
+81,TOYOTA,RAV4,42.8,2017年10月,91,167821,汽油,2,灰色,自排,前輪驅動,5,苗栗縣,https://www.abccar.com.tw/dealer/206396,https://www.abccar.com.tw/Car/2241381
+82,TOYOTA,RAV4,25.8,2011年11月,162,137215,汽油,2.4,白色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/219572,https://www.abccar.com.tw/Car/2238595
+83,TOYOTA,RAV4,98.9,2023年03月,26,9987,汽油,2,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/217007,https://www.abccar.com.tw/Car/2239881
+84,TOYOTA,RAV4,17.8,2008年12月,197,162538,汽油,2.4,銀色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/219026,https://www.abccar.com.tw/Car/2241290
+85,TOYOTA,RAV4,28.8,2012年04月,157,147618,汽油,2.4,黑色,自排,前輪驅動,5,嘉義市,https://www.abccar.com.tw/dealer/217460,https://www.abccar.com.tw/Car/2236253
+86,TOYOTA,RAV4,40.8,2015年06月,119,135000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2241129
+87,TOYOTA,RAV4,89.8,2021年05月,48,36366,油電複合,2.5,白色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/227656,https://www.abccar.com.tw/Car/2241041
+88,TOYOTA,RAV4,22.8,2011年02月,171,199183,汽油,2.4,黑色,自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/218753,https://www.abccar.com.tw/Car/2230650
+89,TOYOTA,RAV4,68.8,2020年05月,60,36406,汽油,2,黑色,手自排,前輪驅動,0,彰化縣,https://www.abccar.com.tw/dealer/218753,https://www.abccar.com.tw/Car/2230668
+90,TOYOTA,RAV4,81.8,2020年09月,56,55843,汽油,2,白色,自手排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/219828,https://www.abccar.com.tw/Car/2237931
+91,TOYOTA,RAV4,43.8,2016年11月,102,133233,汽油,2,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/232738,https://www.abccar.com.tw/Car/2240241
+92,TOYOTA,RAV4,18.8,2010年04月,181,109656,汽油,2.4,黑色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/232400,https://www.abccar.com.tw/Car/2235771
+93,TOYOTA,RAV4,66.8,2020年01月,64,105000,汽油,2,灰色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/229276,https://www.abccar.com.tw/Car/2240063
+94,TOYOTA,RAV4,47.8,2016年12月,101,155382,汽油,2,黑色,自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/230412,https://www.abccar.com.tw/Car/2239688
+95,TOYOTA,RAV4,31.8,2014年04月,133,155913,汽油,2.5,黑色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/217293,https://www.abccar.com.tw/Car/2239243
+96,TOYOTA,RAV4,48.8,2020年01月,64,20000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2239915
+97,TOYOTA,RAV4,46.8,2019年02月,75,30000,汽油,2,紅色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2239911
+98,TOYOTA,RAV4,33.8,2017年01月,100,40000,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2239910
+99,TOYOTA,RAV4,36.8,2019年02月,75,120000,汽油,2,紅色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2239886
+100,TOYOTA,RAV4,54.8,2020年05月,60,20000,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2239590
+101,TOYOTA,RAV4,85.8,2021年07月,46,21589,油電複合,2.5,銀色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/7045,https://www.abccar.com.tw/Car/2238927
+102,TOYOTA,RAV4,35.8,2017年06月,95,50000,油電複合,2.5,銀色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2239360
+103,TOYOTA,RAV4,23.8,2010年04月,181,187604,汽油,2.4,黑色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/238191,https://www.abccar.com.tw/Car/2236134
+104,TOYOTA,RAV4,39.8,2015年10月,115,90952,汽油,2.5,灰色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/49728,https://www.abccar.com.tw/Car/2238447
+105,TOYOTA,RAV4,75.8,2020年12月,53,94993,油電複合,2.5,藍色,手自排,前輪驅動,0,桃園市,https://www.abccar.com.tw/dealer/63777,https://www.abccar.com.tw/Car/2235636
+106,TOYOTA,RAV4,89.8,2022年04月,37,79747,油電複合,2.5,白色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/66385,https://www.abccar.com.tw/Car/2237805
+107,TOYOTA,RAV4,79.8,2021年12月,41,19594,汽油,2,白色,手自排,前輪驅動,0,彰化縣,https://www.abccar.com.tw/dealer/212717,https://www.abccar.com.tw/Car/2238065
+108,TOYOTA,RAV4,28.8,2015年02月,123,175705,汽油,2.5,灰色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/17479,https://www.abccar.com.tw/Car/2237700
+109,TOYOTA,RAV4,15.8,2008年12月,197,172033,汽油,2.4,銀色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/7107,https://www.abccar.com.tw/Car/2237464
+110,TOYOTA,RAV4,79.8,2020年03月,62,53737,汽油,2,白色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/66385,https://www.abccar.com.tw/Car/2237216
+111,TOYOTA,RAV4,41.8,2015年03月,122,127247,汽油,2,灰色,手自排,前輪驅動,0,桃園市,https://www.abccar.com.tw/dealer/26144,https://www.abccar.com.tw/Car/2236568
+112,TOYOTA,RAV4,28.8,2009年06月,191,176637,汽油,2.4,銀色,自排,前輪驅動,0,高雄市,https://www.abccar.com.tw/dealer/217809,https://www.abccar.com.tw/Car/2236280
+113,TOYOTA,RAV4,42.8,2016年07月,106,169796,汽油,2,銀色,手自排,前輪驅動,5,台中市,,https://www.abccar.com.tw/Car/2235749
+114,TOYOTA,RAV4,38.8,2012年07月,154,75953,汽油,2.4,銀色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/217073,https://www.abccar.com.tw/Car/2235799
+115,TOYOTA,RAV4,37.8,2015年06月,119,155078,汽油,2,銀色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/1640,https://www.abccar.com.tw/Car/2235349
+116,TOYOTA,RAV4,78.8,2021年05月,48,58175,汽油,2,白色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/232813,https://www.abccar.com.tw/Car/2235195
+117,TOYOTA,RAV4,40,2015年08月,117,117482,汽油,2,白色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/207076,https://www.abccar.com.tw/Car/2235375
+118,TOYOTA,RAV4,66.8,2019年08月,69,65788,汽油,2,灰色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/217195,https://www.abccar.com.tw/Car/2235230
+119,TOYOTA,RAV4,68.6,2021年12月,41,122800,汽油,2,灰色,CVT 無段變速,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2235217
+120,TOYOTA,RAV4,48.8,2017年12月,89,143324,汽油,2,白色,手自排,前輪驅動,5,嘉義縣,https://www.abccar.com.tw/dealer/217434,https://www.abccar.com.tw/Car/2235124
+121,TOYOTA,RAV4,75,2021年04月,49,101495,汽油,2,白色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/2150,https://www.abccar.com.tw/Car/2234657
+122,TOYOTA,RAV4,88.8,2021年03月,50,53509,汽油,2,白色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/202759,https://www.abccar.com.tw/Car/2234831
+123,TOYOTA,RAV4,75.8,2019年04月,73,65232,汽油,2,白色,自手排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/212125,https://www.abccar.com.tw/Car/2234277
+124,TOYOTA,RAV4,30.8,2012年12月,149,223318,汽油,2,黑色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/7107,https://www.abccar.com.tw/Car/2234343
+125,TOYOTA,RAV4,55.9,2018年07月,82,127086,汽油,2,銀色,手自排,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/54167,https://www.abccar.com.tw/Car/2234331
+126,TOYOTA,RAV4,69.8,2020年02月,63,72712,汽油,2,黑色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/17721,https://www.abccar.com.tw/Car/2233309
+127,TOYOTA,RAV4,84,2021年12月,41,85081,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/232870,https://www.abccar.com.tw/Car/2233182
+128,TOYOTA,RAV4,45.8,2016年04月,109,119979,汽油,2.5,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/232738,https://www.abccar.com.tw/Car/2231967
+129,TOYOTA,RAV4,48.8,2016年10月,103,164944,汽油,2,白色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/217361,https://www.abccar.com.tw/Car/2231105
+130,TOYOTA,RAV4,28.8,2013年04月,145,150395,汽油,2.5,銀色,手自排,前輪驅動,0,桃園市,https://www.abccar.com.tw/dealer/218839,https://www.abccar.com.tw/Car/2232612
+131,TOYOTA,RAV4,71.8,2020年01月,64,120200,汽油,2,白色,手自排,前輪驅動,0,桃園市,https://www.abccar.com.tw/dealer/218839,https://www.abccar.com.tw/Car/2232610
+132,TOYOTA,RAV4,18.8,2009年06月,191,154888,汽油,2.4,黑色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/236138,https://www.abccar.com.tw/Car/2231227
+133,TOYOTA,RAV4,50.8,2019年02月,75,38000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2230692
+134,TOYOTA,RAV4,41.9,2016年07月,106,138350,汽油,2,銀色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/54612,https://www.abccar.com.tw/Car/2229071
+135,TOYOTA,RAV4,94,2023年08月,21,10485,汽油,2,灰色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/232870,https://www.abccar.com.tw/Car/2229958
+136,TOYOTA,RAV4,79.8,2021年05月,48,63179,汽油,2,白色,手自排,前輪驅動,5,苗栗縣,https://www.abccar.com.tw/dealer/234561,https://www.abccar.com.tw/Car/2229906
+137,TOYOTA,RAV4,92.8,2022年02月,39,22234,油電複合,2.5,紅色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/211754,https://www.abccar.com.tw/Car/2229804
+138,TOYOTA,RAV4,51.8,2018年04月,85,137641,汽油,2,銀色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/86582,https://www.abccar.com.tw/Car/2229491
+139,TOYOTA,RAV4,42.8,2015年04月,121,93718,汽油,2,灰色,手自排,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/54117,https://www.abccar.com.tw/Car/2229415
+0,TOYOTA,RAV4,18.8,2009年06月,191,154888,汽油,2.4,黑色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/236138,https://www.abccar.com.tw/Car/2231227
+1,TOYOTA,RAV4,50.8,2019年02月,75,38000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2230692
+2,TOYOTA,RAV4,41.9,2016年07月,106,138350,汽油,2,銀色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/54612,https://www.abccar.com.tw/Car/2229071
+3,TOYOTA,RAV4,94,2023年08月,21,10485,汽油,2,灰色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/232870,https://www.abccar.com.tw/Car/2229958
+4,TOYOTA,RAV4,79.8,2021年05月,48,63179,汽油,2,白色,手自排,前輪驅動,5,苗栗縣,https://www.abccar.com.tw/dealer/234561,https://www.abccar.com.tw/Car/2229906
+5,TOYOTA,RAV4,92.8,2022年02月,39,22234,油電複合,2.5,紅色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/211754,https://www.abccar.com.tw/Car/2229804
+6,TOYOTA,RAV4,51.8,2018年04月,85,137641,汽油,2,銀色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/86582,https://www.abccar.com.tw/Car/2229491
+7,TOYOTA,RAV4,42.8,2015年04月,121,93718,汽油,2,灰色,手自排,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/54117,https://www.abccar.com.tw/Car/2229415
+8,TOYOTA,RAV4,89.8,2022年08月,33,54608,油電複合,2.5,白色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/237489,https://www.abccar.com.tw/Car/2229439
+9,TOYOTA,RAV4,49.8,2016年11月,102,120000,油電複合,2.5,白色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/8636,https://www.abccar.com.tw/Car/2221739
+10,TOYOTA,RAV4,60.8,2019年02月,75,209020,汽油,2,灰色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/236138,https://www.abccar.com.tw/Car/2227992
+11,TOYOTA,RAV4,33.8,2014年01月,136,196558,汽油,2.5,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/219459,https://www.abccar.com.tw/Car/2229113
+12,TOYOTA,RAV4,23.8,2012年09月,152,171872,汽油,2.4,白色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/217759,https://www.abccar.com.tw/Car/2227756
+13,TOYOTA,RAV4,55.8,2016年08月,105,95654,汽油,2,白色,手自排,前輪驅動,4,彰化縣,https://www.abccar.com.tw/dealer/28036,https://www.abccar.com.tw/Car/2226742
+14,TOYOTA,RAV4,49,2018年12月,77,169368,汽油,2,銀色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/2150,https://www.abccar.com.tw/Car/2226800
+15,TOYOTA,RAV4,27.8,2013年11月,138,151395,汽油,2.5,黑色,手自排,前輪驅動,0,雲林縣,https://www.abccar.com.tw/dealer/7107,https://www.abccar.com.tw/Car/2224262
+16,TOYOTA,RAV4,40.8,2017年09月,92,50000,油電複合,2.5,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2226597
+17,TOYOTA,RAV4,38.8,2016年04月,109,37000,汽油,2.5,白色,手自排,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2226565
+18,TOYOTA,RAV4,51.8,2019年02月,75,21000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2226560
+19,TOYOTA,RAV4,52.8,2020年01月,64,23000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2225936
+20,TOYOTA,RAV4,55.8,2019年02月,75,23000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2225913
+21,TOYOTA,RAV4,42.8,2017年10月,91,39000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2225900
+22,TOYOTA,RAV4,48.8,2018年10月,79,84003,汽油,2,黑色,手自排,前輪驅動,0,台中市,https://www.abccar.com.tw/dealer/217140,https://www.abccar.com.tw/Car/2224916
+23,TOYOTA,RAV4,52.8,2020年05月,60,30000,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2225727
+24,TOYOTA,RAV4,38,2016年06月,107,51000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2225671
+25,TOYOTA,RAV4,56.8,2016年12月,101,75167,油電複合,2.5,白色,自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/227656,https://www.abccar.com.tw/Car/2225037
+26,TOYOTA,RAV4,39.8,2016年02月,111,130553,汽油,2,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/234329,https://www.abccar.com.tw/Car/2225009
+27,TOYOTA,RAV4,28.8,2011年06月,167,246575,汽油,2.4,白色,自排,前輪驅動,5,嘉義縣,https://www.abccar.com.tw/dealer/205704,https://www.abccar.com.tw/Car/2224428
+28,TOYOTA,RAV4,86,2020年12月,53,51811,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/207076,https://www.abccar.com.tw/Car/2223318
+29,TOYOTA,RAV4,37.9,2015年04月,121,107018,汽油,2,銀色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/17799,https://www.abccar.com.tw/Car/2222692
+30,TOYOTA,RAV4,49.8,2017年07月,94,76839,汽油,2,黑色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/207076,https://www.abccar.com.tw/Car/2222817
+31,TOYOTA,RAV4,86,2020年06月,59,66025,油電複合,2.5,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/207076,https://www.abccar.com.tw/Car/2222808
+32,TOYOTA,RAV4,37.8,2015年04月,121,169161,汽油,2,銀色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/230395,https://www.abccar.com.tw/Car/2222696
+33,TOYOTA,RAV4,20.8,2012年04月,157,291000,汽油,2.4,白色,自排,四輪驅動,5,屏東縣,,https://www.abccar.com.tw/Car/2222581
+34,TOYOTA,RAV4,14,2009年12月,185,92000,汽油,2.4,黑色,自排,前輪驅動,5,新北市,,https://www.abccar.com.tw/Car/2221686
+35,TOYOTA,RAV4,78.8,2021年09月,44,31171,汽油,2,黑色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/225805,https://www.abccar.com.tw/Car/2221381
+36,TOYOTA,RAV4,28.8,2013年05月,144,106514,汽油,2.5,白色,手自排,前輪驅動,0,台中市,https://www.abccar.com.tw/dealer/1640,https://www.abccar.com.tw/Car/2221191
+37,TOYOTA,RAV4,38.8,2015年06月,119,120515,汽油,2.5,白色,手自排,前輪驅動,0,雲林縣,https://www.abccar.com.tw/dealer/217361,https://www.abccar.com.tw/Car/2220467
+38,TOYOTA,RAV4,57.8,2017年11月,90,47822,汽油,2,藍色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/86582,https://www.abccar.com.tw/Car/2217127
+39,TOYOTA,RAV4,53.8,2017年01月,100,120927,汽油,2,黑色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/54510,https://www.abccar.com.tw/Car/2220798
+40,TOYOTA,RAV4,37.8,2013年03月,146,113992,汽油,2,灰色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/233312,https://www.abccar.com.tw/Car/2220285
+41,TOYOTA,RAV4,83.8,2021年05月,48,72049,油電複合,2.5,灰色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/84414,https://www.abccar.com.tw/Car/2205714
+42,TOYOTA,RAV4,51.8,2017年06月,95,140000,油電複合,2.5,銀色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2219828
+43,TOYOTA,RAV4,50.8,2017年09月,92,110250,油電複合,2.5,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2219827
+44,TOYOTA,RAV4,29.8,2013年06月,143,115899,汽油,2.5,白色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/7107,https://www.abccar.com.tw/Car/2219295
+45,TOYOTA,RAV4,48.8,2018年01月,88,104856,汽油,2,藍色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/217195,https://www.abccar.com.tw/Car/2218279
+46,TOYOTA,RAV4,113.8,2023年10月,19,35000,油電複合,2.5,黑色,CVT 無段變速,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/238122,https://www.abccar.com.tw/Car/2217963
+47,TOYOTA,RAV4,73.6,2021年11月,42,105050,汽油,2,黑色,CVT 無段變速,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2217922
+48,TOYOTA,RAV4,19.8,2008年11月,198,66039,汽油,2.4,黑色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/39824,https://www.abccar.com.tw/Car/2217709
+49,TOYOTA,RAV4,49.8,2016年06月,107,107000,油電複合,2.5,黑色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35603,https://www.abccar.com.tw/Car/2214386
+50,TOYOTA,RAV4,89.8,2022年11月,30,12936,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/35592,https://www.abccar.com.tw/Car/2206871
+51,TOYOTA,RAV4,46.8,2015年11月,114,63252,汽油,2,白色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/69097,https://www.abccar.com.tw/Car/2213115
+52,TOYOTA,RAV4,46.8,2016年12月,101,81000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35589,https://www.abccar.com.tw/Car/2201829
+53,TOYOTA,RAV4,79.8,2019年02月,75,47000,油電複合,2.5,灰色,手自排,四輪驅動,5,台北市,https://www.abccar.com.tw/dealer/35589,https://www.abccar.com.tw/Car/2198244
+54,TOYOTA,RAV4,79.8,2020年07月,58,52360,油電複合,2.5,白色,手自排,前輪驅動,5,基隆市,https://www.abccar.com.tw/dealer/35590,https://www.abccar.com.tw/Car/2184021
+55,TOYOTA,RAV4,93.8,2021年10月,43,59571,油電複合,2.5,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2183752
+56,TOYOTA,RAV4,107.8,2024年02月,15,8217,油電複合,2.5,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35605,https://www.abccar.com.tw/Car/2176468
+57,TOYOTA,RAV4,97.8,2023年09月,20,5,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/69097,https://www.abccar.com.tw/Car/2175106
+58,TOYOTA,RAV4,48.8,2015年11月,114,98730,汽油,2,銀色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2158985
+59,TOYOTA,RAV4,84.8,2021年12月,41,68356,汽油,2,銀色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/35592,https://www.abccar.com.tw/Car/2158681
+60,TOYOTA,RAV4,112.8,2023年06月,23,6089,油電複合,2.5,黑色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35605,https://www.abccar.com.tw/Car/2144061
+61,TOYOTA,RAV4,26.8,2011年11月,162,145828,汽油,2.4,白色,自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/35608,https://www.abccar.com.tw/Car/2137354
+62,TOYOTA,RAV4,90.8,2021年05月,48,32154,汽油,2,黑色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2136022
+63,TOYOTA,RAV4,82.8,2019年05月,72,39510,汽油,2,灰色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2135743
+64,TOYOTA,RAV4,78.8,2021年10月,43,34874,汽油,2,灰色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/35587,https://www.abccar.com.tw/Car/2132275
+65,TOYOTA,RAV4,98.8,2021年12月,41,40845,油電複合,2.5,白色,手自排,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/35608,https://www.abccar.com.tw/Car/2106749
+66,TOYOTA,RAV4,93.8,2020年08月,57,34890,油電複合,2.5,黑色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/229294,https://www.abccar.com.tw/Car/2106746
+67,TOYOTA,RAV4,47.8,2015年07月,118,121000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/35603,https://www.abccar.com.tw/Car/2098450
+68,TOYOTA,RAV4,103.8,2021年01月,52,75961,油電複合,2.5,白色,手自排,四輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2085405
+69,TOYOTA,RAV4,46.8,2014年10月,127,102700,汽油,2,銀色,CVT 無段變速,前輪驅動,5,基隆市,https://www.abccar.com.tw/dealer/35590,https://www.abccar.com.tw/Car/2079980
+70,TOYOTA,RAV4,89.8,2019年11月,66,46580,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2075365
+71,TOYOTA,RAV4,63.8,2017年09月,92,85372,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/35596,https://www.abccar.com.tw/Car/2072386
+72,TOYOTA,RAV4,91.8,2021年06月,47,14152,汽油,2,白色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/35606,https://www.abccar.com.tw/Car/2061866
+73,TOYOTA,RAV4,31,2013年09月,140,227840,汽油,2,白色,CVT 無段變速,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/233626,https://www.abccar.com.tw/Car/2212575
+74,TOYOTA,RAV4,33.8,2014年10月,127,157817,汽油,2.5,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/53183,https://www.abccar.com.tw/Car/2208753
+75,TOYOTA,RAV4,13.8,2010年07月,178,173523,汽油,2.4,黑色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/28215,https://www.abccar.com.tw/Car/2198090
+76,TOYOTA,RAV4,39.8,2014年02月,135,118000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2181593
+77,TOYOTA,RAV4,16.8,2009年07月,190,216014,汽油,2.4,銀色,自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52925,https://www.abccar.com.tw/Car/2179811
+78,TOYOTA,RAV4,73.8,2020年04月,61,50000,汽油,2,白色,CVT 無段變速,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/217320,https://www.abccar.com.tw/Car/2170875
+79,TOYOTA,RAV4,35,2014年03月,134,120000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/5445,https://www.abccar.com.tw/Car/2159185
+0,TOYOTA,RAV4,73.8,2020年04月,61,50000,汽油,2,白色,CVT 無段變速,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/217320,https://www.abccar.com.tw/Car/2170875
+1,TOYOTA,RAV4,35,2014年03月,134,120000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/5445,https://www.abccar.com.tw/Car/2159185
+2,TOYOTA,RAV4,45.8,2014年03月,134,162606,汽油,2.5,黑色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2158223
+3,TOYOTA,RAV4,42.8,2013年09月,140,227063,汽油,2,白色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2158221
+4,TOYOTA,RAV4,48.8,2017年04月,97,91352,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,屏東縣,https://www.abccar.com.tw/dealer/60864,https://www.abccar.com.tw/Car/2157932
+5,TOYOTA,RAV4,36.8,2013年01月,148,145000,汽油,2,銀色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2149138
+6,TOYOTA,RAV4,32.8,2013年05月,144,160000,汽油,2,銀色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2148946
+7,TOYOTA,RAV4,42.8,2013年12月,137,201907,汽油,2,銀色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2145412
+8,TOYOTA,RAV4,33.8,2013年04月,145,13,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/17417,https://www.abccar.com.tw/Car/2145201
+9,TOYOTA,RAV4,18.8,2010年01月,184,326204,汽油,2.4,黑色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/28793,https://www.abccar.com.tw/Car/2144708
+10,TOYOTA,RAV4,84.8,2021年02月,51,20000,汽油,2,黑色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/17417,https://www.abccar.com.tw/Car/2143584
+11,TOYOTA,RAV4,41.8,2014年03月,134,100000,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/53718,https://www.abccar.com.tw/Car/2143467
+12,TOYOTA,RAV4,88.8,2020年01月,64,53922,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52931,https://www.abccar.com.tw/Car/2139426
+13,TOYOTA,RAV4,48.8,2015年11月,114,130000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/8791,https://www.abccar.com.tw/Car/2139051
+14,TOYOTA,RAV4,28.8,2012年03月,158,210000,汽油,2.4,黑色,自排,四輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2138022
+15,TOYOTA,RAV4,39.8,2014年11月,126,160000,汽油,2,白色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2138017
+16,TOYOTA,RAV4,92.8,2021年03月,50,15824,汽油,2,黑色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/54643,https://www.abccar.com.tw/Car/2136413
+17,TOYOTA,RAV4,86.8,2021年01月,52,98488,汽油,2,銀色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2136403
+18,TOYOTA,RAV4,45,2015年01月,124,60000,汽油,2.5,灰色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/5445,https://www.abccar.com.tw/Car/2135765
+19,TOYOTA,RAV4,33.8,2014年11月,126,220000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2126355
+0,TOYOTA,RAV4,45,2015年01月,124,60000,汽油,2.5,灰色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/5445,https://www.abccar.com.tw/Car/2135765
+1,TOYOTA,RAV4,33.8,2014年11月,126,220000,汽油,2,黑色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/53791,https://www.abccar.com.tw/Car/2126355
+2,TOYOTA,RAV4,46.8,2017年06月,95,117417,汽油,2,灰色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/222574,https://www.abccar.com.tw/Car/2113017
+3,TOYOTA,RAV4,42.8,2018年09月,80,220000,汽油,2,銀色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/230438,https://www.abccar.com.tw/Car/2091954
+4,TOYOTA,RAV4,52.8,2015年06月,119,112586,汽油,2.5,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2080014
+5,TOYOTA,RAV4,23,2010年02月,183,278004,汽油,2.4,白色,自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2060809
+6,TOYOTA,RAV4,68,2018年07月,82,135615,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2047930
+7,TOYOTA,RAV4,43.8,2014年09月,128,70000,汽油,2.5,黑色,手自排,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/5445,https://www.abccar.com.tw/Car/2046983
+8,TOYOTA,RAV4,79.8,2020年12月,53,64365,油電複合,2.5,黑色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/9948,https://www.abccar.com.tw/Car/2216400
+9,TOYOTA,RAV4,72.8,2020年08月,57,68367,汽油,2,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/55152,https://www.abccar.com.tw/Car/2214853
+10,TOYOTA,RAV4,72,2020年01月,64,90985,汽油,2,黑色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/201687,https://www.abccar.com.tw/Car/2214153
+11,TOYOTA,RAV4,83.8,2024年03月,14,13,油電複合,1.8,白色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/53557,https://www.abccar.com.tw/Car/2211429
+12,TOYOTA,RAV4,46.8,2018年11月,78,72000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/72512,https://www.abccar.com.tw/Car/2210306
+13,TOYOTA,RAV4,66.8,2021年07月,46,142154,汽油,2,黑色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52962,https://www.abccar.com.tw/Car/2210167
+14,TOYOTA,RAV4,35.8,2013年03月,146,137007,汽油,2,黑色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/53183,https://www.abccar.com.tw/Car/2208752
+15,TOYOTA,RAV4,80.8,2019年10月,67,42000,油電複合,2.5,其他,CVT 無段變速,四輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/227999,https://www.abccar.com.tw/Car/2203412
+16,TOYOTA,RAV4,42.8,2014年01月,136,214186,汽油,2.5,銀色,手自排,前輪驅動,0,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2200499
+17,TOYOTA,RAV4,33.9,2015年01月,124,161661,汽油,2.5,白色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/220684,https://www.abccar.com.tw/Car/2199914
+18,TOYOTA,RAV4,66,2020年03月,62,70000,汽油,2,藍色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/69051,https://www.abccar.com.tw/Car/2198012
+19,TOYOTA,RAV4,39.9,2016年08月,105,221224,汽油,2,灰色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/220684,https://www.abccar.com.tw/Car/2197885
+0,TOYOTA,RAV4,39.9,2016年08月,105,221224,汽油,2,灰色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/220684,https://www.abccar.com.tw/Car/2197885
+1,TOYOTA,RAV4,38.8,2015年06月,119,142247,汽油,2,銀色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/54605,https://www.abccar.com.tw/Car/2181132
+2,TOYOTA,RAV4,85.8,2021年03月,50,52544,油電複合,2.5,白色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/50667,https://www.abccar.com.tw/Car/2180961
+3,TOYOTA,RAV4,46.8,2017年04月,97,175340,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/84086,https://www.abccar.com.tw/Car/2179574
+4,TOYOTA,RAV4,45.8,2014年03月,134,162606,汽油,2.5,黑色,手自排,前輪驅動,0,高雄市,https://www.abccar.com.tw/dealer/46826,https://www.abccar.com.tw/Car/2177026
+5,TOYOTA,RAV4,68,2021年03月,50,10000,汽油,2,黑色,CVT 無段變速,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/53718,https://www.abccar.com.tw/Car/2175478
+6,TOYOTA,RAV4,29.8,2014年10月,127,180000,汽油,2.5,銀色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52982,https://www.abccar.com.tw/Car/2164712
+7,TOYOTA,RAV4,24.6,2012年04月,157,109088,汽油,2.4,黑色,自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/219655,https://www.abccar.com.tw/Car/2163011
+8,TOYOTA,RAV4,87.8,2020年07月,58,81343,油電複合,2.5,白色,CVT 無段變速,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/28793,https://www.abccar.com.tw/Car/2159206
+9,TOYOTA,RAV4,21.8,2010年03月,182,130000,汽油,2.4,白色,自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/52982,https://www.abccar.com.tw/Car/2157742
+10,TOYOTA,RAV4,45.8,2015年04月,121,140000,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/17252,https://www.abccar.com.tw/Car/2149033
+11,TOYOTA,RAV4,32.8,2013年10月,139,169750,汽油,2,銀色,CVT 無段變速,前輪驅動,5,嘉義縣,https://www.abccar.com.tw/dealer/202583,https://www.abccar.com.tw/Car/2144983
+12,TOYOTA,RAV4,48.8,2015年11月,114,110000,汽油,2,白色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/66430,https://www.abccar.com.tw/Car/2144765
+13,TOYOTA,RAV4,41.8,2016年08月,105,234141,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/28793,https://www.abccar.com.tw/Car/2144136
+14,TOYOTA,RAV4,99.8,2022年01月,40,22777,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2143349
+15,TOYOTA,RAV4,52.8,2016年01月,112,6,油電複合,2.5,紅色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/69051,https://www.abccar.com.tw/Car/2143333
+16,TOYOTA,RAV4,78,2020年01月,64,47615,汽油,2,灰色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/53026,https://www.abccar.com.tw/Car/2138734
+17,TOYOTA,RAV4,51.8,2017年04月,97,178497,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2135344
+18,TOYOTA,RAV4,39.8,2015年07月,118,76055,汽油,2,黑色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/52889,https://www.abccar.com.tw/Car/2132829
+19,TOYOTA,RAV4,83.8,2020年08月,57,35876,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/60910,https://www.abccar.com.tw/Car/2126336
+20,TOYOTA,RAV4,56,2016年11月,102,78801,汽油,2,白色,自手排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/218904,https://www.abccar.com.tw/Car/2126238
+21,TOYOTA,RAV4,45.8,2015年05月,120,13,汽油,2,銀色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/17417,https://www.abccar.com.tw/Car/2118275
+22,TOYOTA,RAV4,46.8,2015年04月,121,177423,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2117793
+23,TOYOTA,RAV4,69.8,2014年11月,126,209285,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/82534,https://www.abccar.com.tw/Car/2116330
+24,TOYOTA,RAV4,79.8,2018年05月,84,30019,油電複合,2.5,灰色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2100910
+25,TOYOTA,RAV4,95.8,2022年10月,31,5000,汽油,2,綠色,CVT 無段變速,四輪驅動,5,台中市,https://www.abccar.com.tw/dealer/69051,https://www.abccar.com.tw/Car/2100856
+26,TOYOTA,RAV4,84.8,2019年03月,74,81819,油電複合,2.5,銀色,自排,四輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/221967,https://www.abccar.com.tw/Car/2082651
+27,TOYOTA,RAV4,49.8,2017年02月,99,156819,汽油,2,白色,CVT 無段變速,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/201611,https://www.abccar.com.tw/Car/2082410
+28,TOYOTA,RAV4,98.8,2020年11月,54,32492,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2080800
+29,TOYOTA,RAV4,68.8,2019年05月,72,49204,汽油,2,銀色,CVT 無段變速,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/39171,https://www.abccar.com.tw/Car/2074692
+30,TOYOTA,RAV4,19.9,2011年10月,163,348829,汽油,2.4,黑色,自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/220684,https://www.abccar.com.tw/Car/2045869
+31,TOYOTA,RAV4,53,2015年08月,117,116470,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/61322,https://www.abccar.com.tw/Car/2044170
+32,TOYOTA,RAV4,45.8,2017年03月,98,159429,汽油,2,灰色,CVT 無段變速,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/236349,https://www.abccar.com.tw/Car/2217327
+33,TOYOTA,RAV4,35.6,2013年03月,146,118167,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2209344
+34,TOYOTA,RAV4,80.8,2021年10月,43,70154,汽油,2,灰色,CVT 無段變速,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/69607,https://www.abccar.com.tw/Car/2206360
+35,TOYOTA,RAV4,53.8,2015年12月,113,106614,汽油,2,白色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/86582,https://www.abccar.com.tw/Car/2149994
+36,TOYOTA,RAV4,46,2017年07月,94,140000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新興街,https://www.abccar.com.tw/dealer/51768,https://www.abccar.com.tw/Car/2149807
+37,TOYOTA,RAV4,72.8,2019年09月,68,69423,汽油,2,黑色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/226165,https://www.abccar.com.tw/Car/2148634
+38,TOYOTA,RAV4,69.8,2019年04月,73,89130,汽油,2,白色,CVT 無段變速,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/211381,https://www.abccar.com.tw/Car/2148508
+39,TOYOTA,RAV4,76.8,2019年08月,69,53851,汽油,2,白色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/235789,https://www.abccar.com.tw/Car/2148250
+40,TOYOTA,RAV4,49.9,2016年11月,102,142888,油電複合,2.5,白色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/232813,https://www.abccar.com.tw/Car/2144842
+41,TOYOTA,RAV4,46,2016年05月,108,110000,汽油,2,白色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/217640,https://www.abccar.com.tw/Car/2144583
+42,TOYOTA,RAV4,38,2016年02月,111,176268,汽油,2,藍色,CVT 無段變速,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/221758,https://www.abccar.com.tw/Car/2139500
+43,TOYOTA,RAV4,78.8,2020年01月,64,79000,汽油,2,白色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/232498,https://www.abccar.com.tw/Car/2123737
+44,TOYOTA,RAV4,88.6,2021年11月,42,68760,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2139151
+45,TOYOTA,RAV4,33.8,2011年11月,162,170390,汽油,2.4,白色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/235270,https://www.abccar.com.tw/Car/2137824
+46,TOYOTA,RAV4,85.6,2021年02月,51,51414,汽油,2,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2136147
+47,TOYOTA,RAV4,52.6,2016年01月,112,68145,油電複合,2.5,紅色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/8936,https://www.abccar.com.tw/Car/2136070
+48,TOYOTA,RAV4,38.8,2013年12月,137,80000,汽油,2,銀色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/73323,https://www.abccar.com.tw/Car/2132892
+49,TOYOTA,RAV4,22.8,2011年11月,162,229471,汽油,2.4,黑色,自排,前輪驅動,5,嘉義市,https://www.abccar.com.tw/dealer/227758,https://www.abccar.com.tw/Car/2116235
+50,TOYOTA,RAV4,84,2021年03月,50,79380,油電複合,2.5,白色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/200860,https://www.abccar.com.tw/Car/2114710
+51,TOYOTA,RAV4,73.8,2019年12月,65,81794,汽油,2,銀色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/217720,https://www.abccar.com.tw/Car/2107169
+52,TOYOTA,RAV4,89.8,2020年12月,53,45000,油電複合,2.5,黑色,手自排,四輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/15593,https://www.abccar.com.tw/Car/2106606
+53,TOYOTA,RAV4,88,2020年01月,64,65750,汽油,2,白色,CVT 無段變速,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/211381,https://www.abccar.com.tw/Car/2104622
+54,TOYOTA,RAV4,41.8,2013年11月,138,116983,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/17721,https://www.abccar.com.tw/Car/2104601
+55,TOYOTA,RAV4,49.8,2016年06月,107,142000,油電複合,2.5,白色,手自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/15593,https://www.abccar.com.tw/Car/2100300
+56,TOYOTA,RAV4,45.8,2013年05月,144,180000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/231577,https://www.abccar.com.tw/Car/2069681
+57,TOYOTA,RAV4,48.8,2018年06月,83,117438,汽油,2,灰色,CVT 無段變速,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/68522,https://www.abccar.com.tw/Car/2064787
+58,TOYOTA,RAV4,58.8,2016年10月,103,91961,汽油,2,藍色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/219788,https://www.abccar.com.tw/Car/2058032
+59,TOYOTA,RAV4,78.8,2018年01月,88,62555,油電複合,2.5,黑色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/218838,https://www.abccar.com.tw/Car/2057917
+60,TOYOTA,RAV4,99.8,2022年01月,40,18509,汽油,2,白色,CVT 無段變速,前輪驅動,5,台北市,https://www.abccar.com.tw/dealer/83189,https://www.abccar.com.tw/Car/2052062
+61,TOYOTA,RAV4,46.8,2014年05月,132,90049,汽油,2,銀色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/34632,https://www.abccar.com.tw/Car/2047757
+62,TOYOTA,RAV4,78.8,2020年12月,53,23328,汽油,2,白色,CVT 無段變速,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/233312,https://www.abccar.com.tw/Car/2217519
+63,TOYOTA,RAV4,49.9,2018年07月,82,120000,汽油,2,銀色,CVT 無段變速,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/54167,https://www.abccar.com.tw/Car/2217054
+64,TOYOTA,RAV4,74.9,2021年04月,49,79000,汽油,2,白色,CVT 無段變速,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/54167,https://www.abccar.com.tw/Car/2217038
+65,TOYOTA,RAV4,26,2014年10月,127,106489,汽油,2.5,黑色,手自排,前輪驅動,5,桃園市,https://www.abccar.com.tw/dealer/207076,https://www.abccar.com.tw/Car/2216174
+66,TOYOTA,RAV4,36.8,2013年03月,146,113987,汽油,2,灰色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/234642,https://www.abccar.com.tw/Car/2215578
+67,TOYOTA,RAV4,19.8,2011年08月,165,175450,汽油,2.4,銀色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/39351,https://www.abccar.com.tw/Car/2215274
+68,TOYOTA,RAV4,19.8,2009年06月,191,155023,汽油,2.4,黑色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/39351,https://www.abccar.com.tw/Car/2215270
+69,TOYOTA,RAV4,47.8,2016年11月,102,147948,汽油,2,灰色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/33654,https://www.abccar.com.tw/Car/2214779
+70,TOYOTA,RAV4,33.8,2013年10月,139,200560,汽油,2,白色,手自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/7107,https://www.abccar.com.tw/Car/2214527
+71,TOYOTA,RAV4,42.8,2015年03月,122,124935,汽油,2.5,黑色,手自排,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/218913,https://www.abccar.com.tw/Car/2214521
+72,TOYOTA,RAV4,15.8,2009年06月,191,163717,汽油,2.4,銀色,自排,前輪驅動,5,高雄市,https://www.abccar.com.tw/dealer/224593,https://www.abccar.com.tw/Car/2213819
+73,TOYOTA,RAV4,92.8,2022年08月,33,80000,油電複合,2.5,灰色,CVT 無段變速,四輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/54141,https://www.abccar.com.tw/Car/2214413
+74,TOYOTA,RAV4,74.9,2021年04月,49,79616,汽油,2,白色,手自排,前輪驅動,5,南投縣,https://www.abccar.com.tw/dealer/54167,https://www.abccar.com.tw/Car/2212831
+75,TOYOTA,RAV4,21.8,2010年12月,173,147338,汽油,2.4,銀色,自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/234329,https://www.abccar.com.tw/Car/2212119
+76,TOYOTA,RAV4,58.8,2016年10月,103,141069,汽油,2,黑色,手自排,前輪驅動,0,台南市,https://www.abccar.com.tw/dealer/217554,https://www.abccar.com.tw/Car/2212511
+77,TOYOTA,RAV4,38.8,2010年03月,182,149300,汽油,2.4,白色,手自排,前輪驅動,0,台南市,https://www.abccar.com.tw/dealer/217554,https://www.abccar.com.tw/Car/2212477
+78,TOYOTA,RAV4,51.8,2019年10月,67,48000,汽油,2,灰色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2212298
+79,TOYOTA,RAV4,56.8,2020年07月,58,20000,汽油,2,白色,CVT 無段變速,前輪驅動,5,桃園市,,https://www.abccar.com.tw/Car/2211414
+80,TOYOTA,RAV4,68.8,2021年06月,47,74694,汽油,2,白色,手自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/218753,https://www.abccar.com.tw/Car/2210129
+81,TOYOTA,RAV4,16.8,2010年02月,183,242450,汽油,2.4,白色,自排,前輪驅動,5,雲林縣,https://www.abccar.com.tw/dealer/236138,https://www.abccar.com.tw/Car/2210425
+82,TOYOTA,RAV4,25.8,2012年12月,149,151868,汽油,2.5,銀色,手自排,前輪驅動,5,台中市,https://www.abccar.com.tw/dealer/217073,https://www.abccar.com.tw/Car/2211081
+83,TOYOTA,RAV4,28.8,2012年10月,151,169156,汽油,2.4,銀色,自排,前輪驅動,5,彰化縣,https://www.abccar.com.tw/dealer/34632,https://www.abccar.com.tw/Car/2209158
+84,TOYOTA,RAV4,39.6,2015年07月,118,97613,汽油,2.5,白色,手自排,前輪驅動,5,台南市,https://www.abccar.com.tw/dealer/235780,https://www.abccar.com.tw/Car/2211004
+85,TOYOTA,RAV4,75.8,2021年04月,49,30000,油電複合,2.5,黑色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/27058,https://www.abccar.com.tw/Car/2210944
+86,TOYOTA,RAV4,50.8,2020年03月,62,40000,汽油,2,白色,CVT 無段變速,前輪驅動,5,新北市,https://www.abccar.com.tw/dealer/27058,https://www.abccar.com.tw/Car/2210647
+87,TOYOTA,RAV4,70.4,2021年06月,47,50550,油電複合,2.5,灰色,CVT 無段變速,四輪驅動,5,新北市,https://www.abccar.com.tw/dealer/231952,https://www.abccar.com.tw/Car/2209588

@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>胡舜宇 - 期末報告</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="Resume Website Template Free Download" name="keywords">
+        <meta content="Resume Website Template Free Download" name="description">
+        <link rel="shortcut icon" href="img/graduation.png" color="white">
+
+        <!-- Favicon -->
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- Google Fonts -->
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:300;400;600;700;800&display=swap" rel="stylesheet">
+
+        <!-- CSS Libraries -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+        <link href="lib/slick/slick.css" rel="stylesheet">
+        <link href="lib/slick/slick-theme.css" rel="stylesheet">
+        <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+
+        <!--Plot-->
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/chartjs-chart-box-and-violin-plot@4.1.1/build/index.umd.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+        <script src="https://cdn.plot.ly/plotly-2.30.0.min.js"></script>
+        <script src="js/plot.js"></script>
+    </head>
+
+    <body data-spy="scroll" data-target=".navbar" data-offset="51">
+        <div class="wrapper">
+            <div class="sidebar">
+                <div class="sidebar-header">
+                    <img src="img/car_profile.jpg" alt="Image">
+                </div>
+                <div class="sidebar-content">
+                    <nav class="navbar navbar-expand-md bg-dark navbar-dark">
+                        <div class="nav-links">
+                            <a href="FP.html" class="project-link active">期末專案</a>
+                            <a href="index.html" class="personal-link">個人網頁</a>
+                        </div>
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarCollapse">
+                            <ul class="nav navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#header">Home<i class="fa fa-home"></i></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#about">Introduction 前言<i class="fa fa-info"></i></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#experience">Process 研究流程<i class="fa fa-search"></i></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#service">Mining 資料探勘析<i class="fa fa-chart-bar"></i></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#portfolio">Model 模型表現<i class="fa fa-cogs"></i></a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#contact">Future 未來展望<i class="fa fa-rocket"></i></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+
+            </div>
+            <div class="content">
+                <!-- Header Start -->
+                <div class="header" id="header">
+                    <div class="content-inner-FP">
+                        <p>113-2 Web Crawler Practice</p>
+                        <h1>基於機器學習預測中古車車價</h1>
+                        <h3>以Toyota RAV4為例</h3>
+                    </div>
+                </div>
+                <!-- Header End -->
+                
+                <!-- Large Button Start -->
+                <div class="large-btn">
+                    <p></p>
+                    <!-- <div class="content-inner">
+                        <a class="btn" href="https://www.geo.ntnu.edu.tw/" target="_blank">【主修】 國立臺灣師範大學 地理學系</a>
+                        <a class="btn" href="https://www.ce.ntu.edu.tw/" target="_blank">【雙主修】 國立臺灣大學 土木工程學系</a>
+                    </div> -->
+                </div>
+                <!-- Large Button End -->
+                
+                <!-- About Start -->
+                <div class="about" id="about">
+                    <div class="content-inner">
+                        <div class="content-header">
+                            <h2>1. Introduction 前言</h2>
+                        </div>
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
+                                <h3><i class="fa fa-lightbulb"></i> 研究動機</h3>
+                                <p>
+                                    在中古車市場中，車價的評估多半仰賴專家的主觀判斷。然而，此種人工評估方式不僅耗費大量人力資源，還可能因資訊不對稱而導致價格偏誤，對買賣雙方皆造成不利影響。
+                                    因此，本研究希望透過 <strong>機器學習（Machine Learning）</strong>，建構自動化且高準確性的中古車價格預測模型，以提升交易的透明度與效率。
+                                </p>
+                                <h4><i class="fa fa-bullseye"></i> 研究目的</h4>
+                                <p>
+                                    本研究以 Toyota RAV4 為例，透過 <strong>網頁爬蟲（Web Scraping）</strong> 技術，自 <a href="https://www.abccar.com.tw/" target="_blank">abc好車網</a> 擷取中古車的關鍵資訊。
+                                    接著，將資料前處理（標準化、One-Hot Encoding...），並將其導入多種機器學習模型進行訓練與評估，包含 <strong>隨機森林（Random Forest）</strong>、<strong>XGBoost</strong> 與 <strong>支持向量回歸（SVR, Support Vector Regression）</strong>，以比較不同演算法的預測表現，選出最適合本研究資料特性的模型。
+                                </p>
+                                <p>
+                                    為提高模型的準確性與泛化能力，本研究採取「單一模型預測單一車款」的策略，集中資源於單一品牌與車型的深入分析。
+                                    在有限的時間與計算資源下，選擇 Toyota RAV4 作為實作範例，期望藉此驗證機器學習於中古車價預測之可行性與效益，並為日後擴展至其他車款奠定基礎。
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- About End -->
+                
+                
+                <!-- Experience Start -->
+                <div class="experience" id="experience">
+                    <div class="content-inner">
+                        <div class="content-header">
+                            <h2>2. Process 研究流程</h2>
+                        </div>
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
+                                <img src="img/研究流程.png" class="img-fluid" alt="研究流程圖">
+                            </div>
+                            <div class="col-lg-12">
+                                <h3 style="margin-top: 25px;">關鍵資訊 Information</h3>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="exp-col">
+                                    <span><h5>數值特徵 Numerical</h5></span>
+                                    <ul>
+                                        <li>出廠時間 Production Date</li>
+                                        <li>里程數 Mileage</li>
+                                        <li>排氣量 Engine Displacement</li>
+                                        <li>座位數 Seats</li>
+                                        <li>二手價格 Price</li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="exp-col">
+                                    <span><h5>類別特徵 Categorical</h5></span>
+                                    <ul>
+                                        <li>車型 Brand & Model</li>
+                                        <li>燃料種類 Fuel Type</li>
+                                        <li>顏色 Color</li>
+                                        <li>變速系統 Trans System</li>
+                                        <li>傳動系統 Drive System</li>
+                                        <li>所在地 Location</li>  
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Experience End -->
+
+
+                <!-- Service Start -->
+                <div class="service" id="service">
+                    <div class="content-inner">
+                        <div class="content-header">
+                            <h2>3. Mining 資料探勘</h2>
+                        </div>
+                        <div class="row align-items-center">
+                            <div class="col-lg-12 srv-col">
+                                <h3>A. 價格分布圖（直方圖）</h3>
+                                <canvas id="priceHistogram" width="800" height="400"></canvas>
+                            </div>
+                            <div class="col-lg-12 srv-col">
+                                <h3>B. 價格統計圖（盒鬚圖）</h3>
+                                <div id="priceBoxplot" style="width: 600px; height: 400px;"></div>
+                            </div>
+                            <div class="col-lg-12 srv-col">
+                                <h3>C. 價格與里程數關係圖（散佈圖）</h3>
+                                <canvas id="priceMileageScatter" width="800" height="400"></canvas>
+                            </div>
+                            <div class="col-lg-12 srv-col">
+                                <h3>D. 價格與出廠時間關係圖（散佈圖）</h3>
+                                <canvas id="priceProductionMonthScatter" width="800" height="400"></canvas>
+                            </div>     
+                        </div>
+                    </div>
+                </div>
+                <!-- Service End -->
+                
+                <!-- Portfolio Start -->
+                <div class="portfolio" id="portfolio">
+                    <div class="content-inner">
+                        <div class="content-header">
+                            <h2>4. Model 模型表現</h2>
+                        </div>
+                        <div class="row align-items-center">
+                            <div class="col-lg-12">
+                                <p>以下表格展示了不同機器學習模型在預測 Toyota RAV4 二手車價格時的表現，包括均方根誤差（RMSE）、平均絕對誤差（MAE）和決定係數（R²）。</p>
+                                <table class="table table-bordered">
+                                    <thead>
+                                        <tr>
+                                            <th>Model 模型</th>
+                                            <th>RMSE 均方根誤差</th>
+                                            <th>MAE 平均絕對誤差</th>
+                                            <th>R² 決定係數</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                            <td>Random Forest</td>
+                                            <td>8.62</td>
+                                            <td style="color: #FF6F61;"><b>5.98</b></td>
+                                            <td>0.88</td>
+                                        </tr>
+                                        <tr>
+                                            <td>XGBoost</td>
+                                            <td>8.46</td>
+                                            <td>6.02</td>
+                                            <td>0.88</td>
+                                        </tr>
+                                        <tr>
+                                            <td>SVR</td>
+                                            <td style="color: #FF6F61;"><b>7.92</b></td>
+                                            <td>6.03</td>
+                                            <td style="color: #FF6F61;"><b>0.90</b></td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+
+                                <p>根據上述結果，<b>SVR model</b>在預測 Toyota RAV4 的二手車價格方面表現最佳。</p>
+
+                                <!-- 模型圖表 -->
+                                <canvas id="modelComparisonChart" width="800" height="400"></canvas>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Portfolio Start -->
+                
+                
+                <!-- Contact Start -->
+                <div class="contact" id="contact">
+                    <div class="content-inner">
+                        <div class="content-header">
+                            <h2>5. Future 未來展望</h2>
+                        </div>
+                        <div class="row align-items-center">
+                            <div class="col-md-12">
+                                <div class="contact-info">
+                                    <ol>
+                                        <li>
+                                            <h3><i class="fa fa-cloud-upload-alt" style="color: #FF6F61;"></i> 模型上架</h3>
+                                            <p>未來希望能將訓練好的機器學習模型佈署至雲端，並結合網頁介面，讓使用者能直接輸入車輛資訊（如里程數、出廠年份等），即時獲得預測的車輛價格，提升使用便利性與實用價值。</p>
+                                        </li>
+                                        <li>
+                                            <h3><i class="fa fa-map-marked-alt" style="color: #FF6F61;"></i> 資料視覺化</h3>
+                                            <p>結合網頁地圖技術（如 Google Maps 或 Leaflet），將全台車款的分布位置以視覺化方式呈現，讓使用者能快速了解不同地區的車輛供應情況與價格分布，進一步提升市場透明度。</p>
+                                        </li>
+                                        <li>
+                                            <h3><i class="fa fa-car" style="color: #FF6F61;"></i> 多車型擴展</h3>
+                                            <p>目前研究僅針對 Toyota RAV4 進行分析，未來希望能擴展至其他車型與品牌，建立更全面的中古車價格預測系統，滿足更多使用者需求。</p>
+                                        </li>
+                                        <li>
+                                            <h3><i class="fa fa-sync-alt" style="color: #FF6F61;"></i> 即時數據更新</h3>
+                                            <p>透過自動化網頁爬蟲技術，定期更新車輛數據，確保模型能基於最新的市場資訊進行預測，提升預測準確性與時效性。</p>
+                                        </li>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Contact End -->
+                
+                <!-- Footer Start -->
+                <div class="footer">
+                    <div class="content-inner">
+                        <div class="row align-items-center">
+                            <div class="col-md-6">
+                                <p>&copy; Copyright <a href="https://htmlcodex.com">HTML Codex</a>. All Rights Reserved</p>
+                            </div>
+                            <div class="col-md-6">
+                                <p>Powered by <a href="https://htmlcodex.com">HTML Codex</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Footer Start -->
+            </div>
+        </div>
+        
+        <!-- Back to Top -->
+        <a href="#" class="back-to-top"><i class="fa fa-angle-double-up"></i></a>
+        
+        <!-- JavaScript Libraries -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/slick/slick.min.js"></script>
+        <script src="lib/typed/typed.min.js"></script>
+        <script src="lib/waypoints/waypoints.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+        <script src="lib/lightbox/js/lightbox.min.js"></script>
+        
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+    </body>
+</html>
